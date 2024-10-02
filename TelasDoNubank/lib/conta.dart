@@ -130,7 +130,7 @@ class Conta extends StatelessWidget {
                     "Guarde seu dinheiro em caixinhas", // Título do card
                     style: TextStyle(
                         fontWeight: FontWeight.bold,
-                        color: Color(0xFF8A0A5BE))), // Estilização do título
+                        color: Colors.purple)), // Estilização do título
                 subtitle: Text(
                     "Acessando a área de planejamento"), // Texto abaixo do título explicando a função
               )),
