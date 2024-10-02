@@ -2,7 +2,7 @@
 
 # Atividade de Desenvolvimento de Interface com Flutter
 
-O projeto consiste em replicar a interface apresentada utilizando Flutter, aplicando os conceitos de layout responsivo, estilização de widgets e boaspráticas de design de interface para aplicativos móveis. 
+O projeto consiste em replicar a interface apresentada utilizando Flutter, aplicando os conceitos de layout responsivo, estilização de widgets e boas práticas de design de interface para aplicativos móveis. 
 
 # Requisitos Técnicos:
 
