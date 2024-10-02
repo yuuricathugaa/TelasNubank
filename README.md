@@ -1,6 +1,7 @@
 # TelasNubank
 
-Atividade de Desenvolvimento de Interface com Flutter
+# Atividade de Desenvolvimento de Interface com Flutter
+
 O projeto consiste em replicar a interface apresentada utilizando Flutter, aplicando os conceitos de layout responsivo, estilização de widgets e boaspráticas de design de interface para aplicativos móveis. 
 
 # Requisitos Técnicos:
@@ -28,17 +29,7 @@ Descubra Mais, cada uma contendo textos e botões específicos.
 
 d. A seção Descubra Mais contém um card dividido entre imagem e Texto + Botão.
 
-2. Widgets a serem utilizados:
-
-a. AppBar: Para a barra superior com ícones.
-b. Container: Para os blocos de conteúdo como saldo da conta, cartão de
-crédito e empréstimo.
-c. Row e Column: Para organização dos botões e textos em linhas e
-colunas.
-d. Text: Para os textos.
-e. ElevatedButton: Para os botões (ex.: Renegociar, Conhecer).
-f. Image: Para o uso da imagem ilustrativa na seção "Descubra Mais".
-g. Lembre de inserir a imagem no pubspec.yaml
+2. Widgets a serem utilizados
 
 3. Cores
 
